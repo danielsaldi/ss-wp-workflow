@@ -1,3 +1,8 @@
-# My Awesome Book
+# WordPress Workflow Starter Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This guide has a purpose and one day we will write more about that, but for now this is all that you get.
+
+
+
+
+

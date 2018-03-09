@@ -1,3 +1,8 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Development Stack](development-stack.md)
+* [Plugins](plugins.md)
+* [Libraries](libraries.md)
+* [Glossary](glossary.md)
+
