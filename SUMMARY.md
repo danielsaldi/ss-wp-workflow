@@ -1,9 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-* [Development Stack](development-stack.md)
-* [Plugins](plugins.md)
-* [Libraries](libraries.md)
-* [Glossary](glossary.md)
-* [Hosting](hosting.md)
+* [Resources](resources.md)
+  * [Development Stack](resources/development-stack.md)
+  * Plugins
+  * [Libraries](resources/libraries.md)
+  * [Glossary](resources/glossary.md)
+  * [Hosting](resources/hosting.md)
+* Getting Started
 
