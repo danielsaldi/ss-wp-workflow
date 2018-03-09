@@ -9,4 +9,8 @@
   * [Hosting](resources/hosting.md)
 * [Getting Started](getting-started.md)
   * Local Environment
+  * WordPress Installation
+  * Started Theme Setup
+  * Plugin Installation
+  * Folder Structure
 
