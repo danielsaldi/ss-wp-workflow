@@ -8,12 +8,22 @@
   * [Glossary](resources/glossary.md)
   * [Hosting](resources/hosting.md)
 * [Getting Started](getting-started.md)
+  * Setup Repository
   * Local Environment
   * WordPress Installation
   * Started Theme Setup
-  * Plugin Installation
+  * [Plugins and Dependancies](getting-started/plugin-installation.md)
   * Folder Structure
 * Theme Development
   * Custom Post Types
   * Advanced Custom Fields
+  * Front End Development
+  * WordPress Development
+  * Site Staging
+  * SEO Redirects
+* [Quality Assurance](quality-assurance.md)
+  * Browser and Device Testing
+* [Website Launch](website-launch.md)
+  * Pre-Launch Checklist
+  * Post-Launch Checklist
 
