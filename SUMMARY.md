@@ -13,4 +13,7 @@
   * Started Theme Setup
   * Plugin Installation
   * Folder Structure
+* Theme Development
+  * Custom Post Types
+  * Advanced Custom Fields
 
