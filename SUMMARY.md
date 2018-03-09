@@ -7,5 +7,5 @@
   * [Libraries](resources/libraries.md)
   * [Glossary](resources/glossary.md)
   * [Hosting](resources/hosting.md)
-* Getting Started
+* [Getting Started](getting-started.md)
 
