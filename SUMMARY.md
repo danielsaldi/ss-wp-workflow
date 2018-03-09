@@ -8,12 +8,12 @@
   * [Glossary](resources/glossary.md)
   * [Hosting](resources/hosting.md)
 * [Getting Started](getting-started.md)
-  * Setup Repository
+  * [Setup Repository](getting-started/setup-repository.md)
   * Local Environment
   * WordPress Installation
   * Started Theme Setup
   * [Plugins and Dependancies](getting-started/plugin-installation.md)
-  * Folder Structure
+  * [Folder Structure](getting-started/folder-structure.md)
 * Theme Development
   * Custom Post Types
   * Advanced Custom Fields
