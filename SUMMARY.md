@@ -8,4 +8,5 @@
   * [Glossary](resources/glossary.md)
   * [Hosting](resources/hosting.md)
 * [Getting Started](getting-started.md)
+  * Local Environment
 
